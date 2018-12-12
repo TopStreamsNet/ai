@@ -1,2 +1,3 @@
 credentials.lua filter=git-crypt diff=git-crypt
+hnh_brain.json filter=git-crypt diff=git-crypt
 
